@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ToriSathio
+- 👀 I’m interested in Networking & Cybersecurity and Data Science
+- 🌱 I’m currently learning Data Analytics and Networking Applications
+- 📫 How to reach me https://www.linkedin.com/in/torisathio/	
